@@ -8,6 +8,12 @@
 
 ##Change Log
 
+###v5.11.12
+    - Use connection grammar to wrap columns and table name.
+
+###v5.11.11
+    - Parse includes in fractal. Fix #225.
+
 ###v5.11.10
     - CollectionEngine: fix sorting of relation columns by using seralize (like filtering). PR #197.
 
